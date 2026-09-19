@@ -46,7 +46,7 @@ The information gathered can include domain registration details, registrar info
 
 ### 📸 Screenshot
 
-![WHOIS](screenshots/whois.png)
+![WHOIS](whois.png)
 
 ---
 
@@ -58,7 +58,7 @@ It can provide information about web technologies, frameworks, servers, CMS plat
 
 ### 📸 Screenshot
 
-![WhatWeb](screenshots/whatweb.png)
+![WhatWeb](whatweb.png)
 
 ---
 
@@ -70,7 +70,7 @@ This helped me understand how domain names are resolved to their corresponding I
 
 ### Screenshot
 
-![Nslookup](screenshots/nslookup.png)
+![Nslookup](nslookup.png)
 
 ---
 
@@ -82,7 +82,7 @@ This helped me understand how information such as HTTP headers and server respon
 
 ### Screenshot
 
-![Curl](screenshots/curl.png)
+![Curl](curl.png)
 
 ---
 
@@ -94,7 +94,7 @@ Understanding WAF detection is useful during security assessments because it pro
 
 ### Screenshot
 
-![Wafw00f](screenshots/wafwoof.png)
+![Wafw00f](wafwoof.png)
 
 ---
 
@@ -106,7 +106,7 @@ The practical helped me understand how DNS records and related information can b
 
 ### 📸 Screenshot
 
-![DNSRecon](screenshots/dnsrecon.png)
+![DNSRecon](dnsrecon.png)
 
 ---
 
@@ -120,7 +120,7 @@ The scan helped me understand how hosts, ports, and available services can be id
 
 ### Screenshot
 
-![Zenmap](screenshots/zenmap.png)
+![Zenmap](zenmap.png)
 
 ---
 
